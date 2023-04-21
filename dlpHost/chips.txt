@@ -1,0 +1,18 @@
+* RP2040 - Main MCU 
+* TMC5062-LA Stepper Driver
+* AEAT-8800-Q24 Rotary encoder (Magnetic)
+
+
+Requirements: 
+* 3D print is 50x50mm maximum (vat size) 
+* Z axis travels 100mm
+* Print needs to complete 
+* NEMA-8 stepper, I can select it. Needs to be roughly tyhe same as the lite3dp one.
+* Encoder can be selected 
+* Should function in terms of 3D printing as close lite3dp as possible 
+* USB Interface 
+* Button board 
+* 18650 battery input (4S1P)
+* Don't deal with post-curing the 3D print 
+* SD Card on the DLP board as well 
+

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "0.Project")(type "KiCad")(uri "${KIPRJMOD}/lib/SYM/project.kicad_sym")(options "")(descr ""))
+  (lib (name "0.Bluesat")(type "KiCad")(uri "/home/mwl/Downloads/BlueSat.kicad_sym")(options "")(descr ""))
+)

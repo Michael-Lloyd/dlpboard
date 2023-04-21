@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "0.Project")(type "KiCad")(uri "/mnt/ssd_msata/569ac1f1-c95f-41c1-8928-e08dc565c5f1/Work/BlueSAT/dlpHost/lib/FP.pretty")(options "")(descr ""))
+)
