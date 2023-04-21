@@ -1,0 +1,14 @@
+# Ignore everything 
+*
+!.gitignore
+!schematics/ 
+!schematics/*
+!schematics/*
+!lib/ 
+!lib/FP.pretty/
+!lib/FP.pretty/* 
+!lib/SYM/
+!lib/SYM/*
+!dlpSat.kicad*
+!fp-*
+!sym-*
