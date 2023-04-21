@@ -3,12 +3,12 @@
 !.gitignore
 !schematics/ 
 !schematics/*
-!schematics/*
-!lib/ 
+!schematics/**
+!lib/* 
 !lib/FP.pretty/
-!lib/FP.pretty/* 
-!lib/SYM/
+!lib/FP.pretty/**
 !lib/SYM/*
+!lib/SYM/**
 !dlpSat.kicad*
 !fp-*
 !sym-*
